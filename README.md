@@ -3,21 +3,18 @@ Performing analysis on Kickstarter data to uncover trends
 # Kickstarting with Excel
 
 ## Overview of Project
-####A collegue, Louise, wrote a play and has aspirations to launch to the public as a commercial venture. With limited personal capital to operationalize, she is interested launching a crowdfunding campaign to aquire funds. However, without much knowledge about crowdfunding process or track records of success, Louise is hesitent to use a crowdfunding campaign. After analyzing the various aspects of launching the play, Louise estimated that the budget needed would be about $10,000. To help make a decision about whether or not to attempt a crowdfunding campain to launch her play, Louise has asked for help understanding fundraising data.
+A collegue, Louise, wrote a play and has aspirations to launch to the public as a commercial venture. With limited personal capital to operationalize, she is interested launching a crowdfunding campaign to aquire funds. However, without much knowledge about crowdfunding process or track records of success, Louise is hesitent to use a crowdfunding campaign. After analyzing the various aspects of launching the play, Louise estimated that the budget needed would be about $10,000. To help make a decision about whether or not to attempt a crowdfunding campain to launch her play, Louise has asked for help understanding fundraising data.
 
 ### Purpose
 ####The purouse of this analysis was to investigate Kickstarter crowdfunding data to gather insights and uncover potential factors that may have influence on the success of kickstarter fundraising campaigns. 
 
 ## Analysis and Challenges
 This investigation saught to overview kickstarter data, and identify identify trends in kickstarter campains. 
-Identify regions
-assess outcomes, successes, failures, canceled campaigns, live campaigns
-Identify comparable metrics to Louise's project - play
 
 ###Description of data
 ####To analyze trends in crowdfunding, Kickstarter campaign data was utilized. The data drew from campaigns that started as far back as May 17th, 2009 and extended to campaigns that started as recent as March 15, 2017.  A number of campaign variables were included in the dataset as outlined in Table 1. The Parent Category and Subcategory were broken out separately to further narrow the parameters of the investigation. 
 
-Table 1. Data variables
+####Table 1. Data variables
 
 Variable
 -------------- 
@@ -37,13 +34,13 @@ Category and Subcategory
 Percentage funded
 Average donation
 
-####The outcomes of the kickstarters campaigns fell into four categories; successful, failed, canceled, or live. Table 2 highlights the total for each category as well as the breakdown for the top 5 countries of origin.
+The outcomes of the kickstarters campaigns fell into four categories; successful, failed, canceled, or live. Table 2 highlights the total for each category as well as the breakdown for the top 5 countries of origin.
 
 
 Table 2. Campaigns by outcome
 
- Country   Total    Succcessful   failed   canceled   live  
- ------- --------- ------------- -------  ---------- ------
+ Country    Total    Succcessful    failed    canceled    live  
+ -------  :-------: :------------: :------:  :---------: ------:
   All       4114       2185        1530     349       50
  ------ ---------- ------------- -------- ----------- -----
  Top 5:
