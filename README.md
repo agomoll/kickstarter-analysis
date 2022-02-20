@@ -52,27 +52,30 @@ Table 2. Campaigns by outcome
 As Louse had a budget in mind for her play, the funding information for the campaigns were also analyzed. Table 3 highlights some descriptive statistics comparing campaign goals and actual amounts pledged towards those goals. 
 
 Table 3. Funding Goals and Outcomes for Successful and Failed Campaigns
+
               Campaign Outcome
+           
            Successful  |   Failed
              -------      --------
-     Goal     $5,049       $10,591
-     Mean     $3,000        $5,000
-     Median
+      Goal     $5,049       $10,591
+      Mean     $3,000        $5,000
+      Median
 
-     Pledged     
-     Mean     $5,602          $561
-     Median   $3,168          $105
+      Pledged     
+      Mean     $5,602          $561
+      Median   $3,168          $105
 
 
 To narrow out understanding of the data the theater subcategory was filtered as displayed in Table 4. It appears that for all countries the total number of Theater campaigns was 1393 with 839 of those being successful.  The majority of campaigns originated in the United States with the second highest count originating in Great Britain. The theater category can be further broken down into subcategories of plays, spaces, and musicals as shown in Table 6. It appears that the majority of the theater campaigns were plays and 694 successful outcomes of 1066 attempted play fundraising campaigns.  Table 6 highlights the crowdfunding outcomes for the top 3 countries of origin for the subcategory plays. For the US, 412 plays of 671 attempted campaigns were successful while 238 of 314 were successful from Great Britain and 22 of 30 campaigns were successful in Canada. 
 
 
 Table 4. Outcomes for Theater campaigns
+      
       Country   Total    Succcessful   failed   canceled   live  
       ------- --------- ------------- -------  ---------- ------
         All       1393       839        493       26       12
       ------ ---------- ------------- -------- ----------- -----
-      Top 3:
+       Top 3:
         US         912       525         349      26       12
         GB         359       258          89       6        6
         CA          44        28          15       1        0
@@ -86,6 +89,7 @@ Table 5. Theater Campaign Subcategories
         Musicals     140        60           80       20         0
 
 Table 6. Outcomes for Play Campaigns in US and GB
+      
       Country   Total    Succcessful   failed   canceled   live  
       ------- --------- ------------- -------  ---------- ------
         US         671       412         250       0        9
@@ -131,3 +135,4 @@ Some conclusions can also be drawn from the outcomes based on goals. For success
 The following outlines some limitations of this dataset. The data is restrictetd to years 2009 to 2017, limiting the generalizability to the current year. More confidence could be gained by analyzing more recent camaigns. The rules for outcome variable assignment is another limitation. For example, crowdfunding campaigns needed to be at least 90% funded to be considered successful. Many campains were identified as failed that achieved over 50% or even 75% of their goals. Another potential limitation is that it was somewhat Unclear where the data came from or who collectetd it. While there is no evidence that the data has been manipulated, there is equally little evidence to sugest otherwise. 
 
 The following highlights some other possible tables and/or graphs that could be ccreated to improve the effectiveness of the analysis. As the majority of play campaigns originatted in the US and GB, more specific analyses isolating those regions based on launch date and goal amount could be conducted. As mentioned previously, this current study could be replicated using different parameters for successfu vs failed outcome definitions. 
+
