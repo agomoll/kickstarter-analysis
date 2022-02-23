@@ -118,7 +118,7 @@ Fig 1. Theater Outcomes by Launch Date
 
 Data for the Theater campaign subcategory 'plays' was then parsed out and the outcomes were analyzed to see if there were any trends that could be observed based on the target amount saught by the fundraisers. These trends are displayed in figure 2. It appears that for successful campaigns for plays, the highest relative percentages targeted the following ranges; Less than $1000 (76%), $1000-$4999( 73%), $35,000-$39,999 (67%), and $40,000-$44,999 (67%). Also of note was that 100% of campaigns for plays that had a goal of raising $45,000-$49,999 resulted in failed outcomes. 
 
-![Outcomes by Goals](https://raw.githubusercontent.com/agomoll/kickstarter-analysis/main/Outcomes_vs_Goals.png?token=GHSAT0AAAAAABQ6GJ27ND4KQ46IZO5KLYYSYQROZIA)
+![Outcomes by Goals](https://raw.githubusercontent.com/agomoll/kickstarter-analysis/main/Outcomes_vs_Goals.png)
 
 
 ### Challenges and Difficulties Encountered
