@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-A collegue, Louise, wrote a play and has aspirations to launch to the public as a commercial venture. With limited personal capital to operationalize, she is interested launching a crowdfunding campaign to aquire funds. However, without much knowledge about crowdfunding process or track records of success, Louise is hesitent to use a crowdfunding campaign. After analyzing the various aspects of launching the play, Louise estimated that the budget needed would be about $10,000. To help make a decision about whether or not to attempt a crowdfunding campain to launch her play, Louise has asked for help understanding fundraising data.
+A collegue, Louise, wrote a play and has aspirations to launch to the public as a commercial venture. With limited personal capital to operationalize, she is interested in launching a crowdfunding campaign to aquire funds. However, without much knowledge about crowdfunding process or track records of success, Louise is hesitent to use a crowdfunding campaign. After analyzing the various aspects of launching the play, Louise estimated that the budget needed would be about $10,000. To help make a decision about whether or not to attempt a crowdfunding campain to launch her play, Louise has asked for help understanding fundraising data.
 
 ### Purpose
 The purouse of this analysis was to investigate Kickstarter crowdfunding data to gather insights and uncover potential factors that may have influence on the success of kickstarter fundraising campaigns. 
@@ -66,7 +66,7 @@ Table 3. Funding Goals and Outcomes for Successful and Failed Campaigns
       Median   $3,168          $105
 
 
-To narrow out understanding of the data the theater subcategory was filtered as displayed in Table 4. It appears that for all countries the total number of Theater campaigns was 1393 with 839 of those being successful.  The majority of campaigns originated in the United States with the second highest count originating in Great Britain. The theater category can be further broken down into subcategories of plays, spaces, and musicals as shown in Table 6. It appears that the majority of the theater campaigns were plays and 694 successful outcomes of 1066 attempted play fundraising campaigns. Table 6 highlights the crowdfunding outcomes for the top 3 countries of origin for the subcategory plays. For the US, 412 plays of 671 attempted campaigns were successful while 238 of 314 were successful from Great Britain and 22 of 30 campaigns were successful in Canada. 
+To narrow the understanding of the data, the theater subcategory was filtered as displayed in Table 4. It appears that for all countries the total number of Theater campaigns was 1393 with 839 of those being successful.  The majority of campaigns originated in the United States with the second highest count originating in Great Britain. The theater category can be further broken down into subcategories of plays, spaces, and musicals as shown in Table 6. It appears that the majority of the theater campaigns were plays and 694 successful outcomes of 1066 attempted play fundraising campaigns. Table 6 highlights the crowdfunding outcomes for the top 3 countries of origin for the subcategory plays. For the US, 412 plays of 671 attempted campaigns were successful while 238 of 314 were successful from Great Britain and 22 of 30 campaigns were successful in Canada. 
 
 
 Table 4. Outcomes for Theater campaigns
