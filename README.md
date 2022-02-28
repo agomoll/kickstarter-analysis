@@ -111,7 +111,8 @@ Of specific interest was the play Foresight from Great Britain. It appears that 
 The Theater campaign outcomes were then analyzed by launch date to better understand whether there were any trends across the calendar year as displayed in Fig 1. It appears that there were a relatively greater number of successful campaigns launched in the months of May, June, and July compared with campaigns that resulted in failed, or canceled outcomes. Failed outcomes had little variance month to month ranging from 31 failures to 52 failures and there were less than 10 canceled Theater campaigns in any given month. 
 
 Fig 1. Theater Outcomes by Launch Date
-![Theater Outcomes by Launch Date](https://github.com/agomoll/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+
+<img src="Resources/Theater_Outcomes_vs_Launch.png" width="600">
 
 
 ### Analysis of Outcomes Based on Goals
@@ -119,7 +120,8 @@ Fig 1. Theater Outcomes by Launch Date
 Data for the Theater campaign subcategory 'plays' was then parsed out and the outcomes were analyzed to see if there were any trends that could be observed based on the target amount saught by the fundraisers. These trends are displayed in figure 2. It appears that for successful campaigns for plays, the highest relative percentages targeted the following ranges; Less than $1000 (76%), $1000-$4999( 73%), $35,000-$39,999 (67%), and $40,000-$44,999 (67%). Also of note was that 100% of campaigns for plays that had a goal of raising $45,000-$49,999 resulted in failed outcomes. 
 
 Fig 2. Outcomes Bbased on Goals
-![Outcomes by Goals](https://github.com/agomoll/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
+
+<img src="Resources/Outcomes_vs_Goals.png" width="600">
 
 
 ### Challenges and Difficulties Encountered
